@@ -55,6 +55,9 @@
   <ItemGroup>
      <Compile Include="Assets\MouseLook.cs" />
      <Compile Include="Assets\Movement.cs" />
+     <None Include="Assets\Ultra Skybox Fog\Shaders\UltraSkyboxFog.shader" />
+     <None Include="Assets\Ultra Skybox Fog\Manual.txt" />
+     <None Include="Assets\Ultra Skybox Fog\Textures\Readme.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/home/nikita.pismenniy/PROJECT/projects/unity/chapter2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>

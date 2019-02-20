@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 448}
+  m_MinSize: {x: 950, y: 398}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -70,10 +70,10 @@ MonoBehaviour:
     y: 0
     width: 505
     height: 978
-  m_MinSize: {x: 232, y: 398}
+  m_MinSize: {x: 277, y: 348}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 31
+  controlID: 29
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,10 +94,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 978
-  m_MinSize: {x: 434, y: 398}
+  m_MinSize: {x: 479, y: 348}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 1
-  controlID: 29
+  controlID: 67
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -117,15 +117,15 @@ MonoBehaviour:
     y: 510
     width: 505
     height: 468
-  m_MinSize: {x: 102, y: 124}
+  m_MinSize: {x: 277, y: 74}
   m_MaxSize: {x: 4002, y: 4024}
-  m_ActualView: {fileID: 12}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 15}
   - {fileID: 13}
   - {fileID: 12}
-  m_Selected: 2
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +148,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1028
-  m_MinSize: {x: 950, y: 448}
+  m_MinSize: {x: 950, y: 398}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -214,10 +214,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 978
-  m_MinSize: {x: 434, y: 398}
+  m_MinSize: {x: 479, y: 348}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 30
+  controlID: 68
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -284,19 +284,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Textures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Textures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/nikita.pismenniy/PROJECT/projects/unity/chapter2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 66090000
-    m_LastClickedID: 2406
+    m_SelectedIDs: 742e0000
+    m_LastClickedID: 11892
     m_ExpandedIDs: 000000006609000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -496,7 +496,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 262d0000
       m_LastClickedID: 0
       m_ExpandedIDs: d4fbffffee0b0000
       m_RenameOverlay:
@@ -553,9 +553,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.1458178, y: -1.1702347, z: -4.053337}
+    m_Target: {x: -7.19374, y: -0.507802, z: 9.237495}
     speed: 2
-    m_Value: {x: 7.1458178, y: -1.1702347, z: -4.053337}
+    m_Value: {x: -7.19374, y: -0.507802, z: 9.237495}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -583,13 +583,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.2342658, y: -0.38547108, z: 0.10184645, w: 0.88665605}
+    m_Target: {x: 0.21845923, y: -0.70950305, z: 0.24923058, w: 0.62190443}
     speed: 2
-    m_Value: {x: 0.2342658, y: -0.38547108, z: 0.10184645, w: 0.88665605}
+    m_Value: {x: 0.21845923, y: -0.70950305, z: 0.24923058, w: 0.62190443}
   m_Size:
-    m_Target: 30.873075
+    m_Target: 18.378944
     speed: 2
-    m_Value: 30.873075
+    m_Value: 18.378944
   m_Ortho:
     m_Target: 0
     speed: 2
